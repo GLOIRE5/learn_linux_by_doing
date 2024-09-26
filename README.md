@@ -1,1 +1,1 @@
-# learn_linux_by_doing
+G24 Readme
